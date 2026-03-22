@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Portfolio-0f0f0f?style=for-the-badge&logo=react&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/fsfarhaanshaikh">
-    <img src="https://img.shields.io/badge/LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:fsfarhaanshaikh7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0f0f0f?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
@@ -29,14 +29,15 @@
 </p>
 
 ---
+<br/>
 
 <!-- ═══════════════════════════════════════════════════ -->
 <!--                   ABOUT ME                          -->
 <!-- ═══════════════════════════════════════════════════ -->
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" />
 
-### 👋 Farhaan Shaikh
+### <h1>👋 Farhaan Shaikh </h1>
 
 **Full Stack Web & App Developer · AI Builder · System Thinker**
 
@@ -46,21 +47,17 @@
 - ⚡ I think in **architecture**, write in **code**, ship in **impact**
 - 📍 Mumbai, India
 
-<br clear="right"/>
-
 ---
 
 <!-- ═══════════════════════════════════════════════════ -->
 <!--                 TECH STACK                          -->
 <!-- ═══════════════════════════════════════════════════ -->
 
-<h3 align="center">⚙️ Arsenal</h3>
+<h3 align="center">⚙️ Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&perline=6" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,mongodb,firebase&perline=6" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=tailwind,androidstudio,figma,docker,git,github&perline=6" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=redux,prisma,mysql,postman,vercel,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,mongodb,firebase&perline=12" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=tailwind,androidstudio,figma,docker,git,github,redux,prisma,mysql,postman,vercel,vscode&perline=12" /><br/><br/>  
 </p>
 
 <p align="center">
@@ -72,37 +69,15 @@
 </p>
 
 ---
+<br/> <br/>
 
 <!-- ═══════════════════════════════════════════════════ -->
-<!--         🏆 ACHIEVEMENTS — GRAND EDITION            -->
+<!--         🏆 HALL OF FAME — SVG CARD                 -->
 <!-- ═══════════════════════════════════════════════════ -->
-
-<h2 align="center">🏆 Hall of Fame</h2>
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   🥇  SMART INDIA HACKATHON 2024  ·  NATIONAL WINNER            ║
-║        Largest national-level tech hackathon in India            ║
-║                                                                  ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║   🥇  RECURSION 5.0              ·  WINNER                      ║
-║   🥇  HACKHIVE 2025              ·  WINNER                      ║
-║   🎨  UI/UX CHAMPIONSHIP         ·  1ST PRIZE                   ║
-║                                                                  ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║   🚀  HACKATHON 2.0              ·  TOP 6                       ║
-║   ⚡  VEGA HACKATHON             ·  TOP 10                      ║
-║   👨‍💻  CSI                        ·  TECH LEAD                   ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
+ 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FSfarhaan/FSfarhaan/main/hall-of-fame.svg" alt="Hall of Fame" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Hackathons_Won-4%2B-6a11cb?style=for-the-badge&labelColor=0d1117"/>
@@ -111,7 +86,9 @@
   <img src="https://img.shields.io/badge/Role-Tech_Lead-ff6b6b?style=for-the-badge&labelColor=0d1117"/>
 </p>
 
+<br/> <br/>
 ---
+
 
 <!-- ═══════════════════════════════════════════════════ -->
 <!--              GITHUB STATS                           -->
