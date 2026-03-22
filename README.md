@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FSfarhaan/FSfarhaan/main/header.svg" alt="Farhaan Shaikh" />
+  <img src="https://raw.githubusercontent.com/FSfarhaan/FSfarhaan/main/header.svg" alt="Farhaan Shaikh" width="100%"/>
 </p>
 
 ---
@@ -34,16 +34,16 @@
 <!--                   ABOUT ME                          -->
 <!-- ═══════════════════════════════════════════════════ -->
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
 
-### 🧠 Farhaan Shaikh
+### 👋 Farhaan Shaikh
 
-**Full Stack Engineer · AI Builder · System Thinker**
+**Full Stack Web & App Developer · AI Builder · System Thinker**
 
-- 🛰️ Built for **INCOIS (Gov. of India)** — geospatial data, 100k+ records, real prod use
-- 🥇 **Winner — Smart India Hackathon 2024** (National Level)
-- 🏆 Multiple hackathon wins across national circuits
-- ⚡ I don't build projects. I build **systems**.
+- 🌐 Building **full stack web & mobile apps** that scale
+- 🤖 Shipping **AI-powered products** — not demos, real systems
+- 📱 Cross-platform dev: **Web + React Native + Expo**
+- ⚡ I think in **architecture**, write in **code**, ship in **impact**
 - 📍 Mumbai, India
 
 <br clear="right"/>
@@ -57,37 +57,58 @@
 <h3 align="center">⚙️ Arsenal</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,python&perline=6" /><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,docker,git,figma,androidstudio&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&perline=6" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,mongodb,firebase&perline=6" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=tailwind,androidstudio,figma,docker,git,github&perline=6" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=redux,prisma,mysql,postman,vercel,vscode&perline=6" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-0f0f0f?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
 </p>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════ -->
-<!--               TROPHY CABINET 🏆                    -->
+<!--         🏆 ACHIEVEMENTS — GRAND EDITION            -->
 <!-- ═══════════════════════════════════════════════════ -->
 
-<h3 align="center">🏆 Trophy Cabinet</h3>
+<h2 align="center">🏆 Hall of Fame</h2>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   🥇  SMART INDIA HACKATHON 2024  ·  NATIONAL WINNER            ║
+║        Largest national-level tech hackathon in India            ║
+║                                                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║   🥇  RECURSION 5.0              ·  WINNER                      ║
+║   🥇  HACKHIVE 2025              ·  WINNER                      ║
+║   🎨  UI/UX CHAMPIONSHIP         ·  1ST PRIZE                   ║
+║                                                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║   🚀  HACKATHON 2.0              ·  TOP 6                       ║
+║   ⚡  VEGA HACKATHON             ·  TOP 10                      ║
+║   👨‍💻  CSI                        ·  TECH LEAD                   ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FSfarhaan&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</p>
-
----
-
-<!-- ═══════════════════════════════════════════════════ -->
-<!--            HACKATHON WINS (BADGES)                  -->
-<!-- ═══════════════════════════════════════════════════ -->
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🥇_Smart_India_Hackathon_2024-National_Winner-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🥇_Recursion_5.0-Winner-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🥇_Hackhive_2025-Winner-ff69b4?style=for-the-badge"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/🎨_UI/UX_Competition-1st_Prize-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🚀_Hackathon_2.0-Top_6-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/⚡_Vega_Hackathon-Top_10-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hackathons_Won-4%2B-6a11cb?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/National_Level_Wins-1-2575fc?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Gov_of_India_Project-Shipped-00d26a?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Role-Tech_Lead-ff6b6b?style=for-the-badge&labelColor=0d1117"/>
 </p>
 
 ---
@@ -121,7 +142,6 @@
 
 <!-- ═══════════════════════════════════════════════════ -->
 <!--           CONTRIBUTION SNAKE 🐍                    -->
-<!--  Setup: Add the GitHub Action below to your repo   -->
 <!-- ═══════════════════════════════════════════════════ -->
 
 <h3 align="center">🐍 Watch the Snake Eat My Commits</h3>
@@ -148,12 +168,8 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--                FOOTER                               -->
-<!-- ═══════════════════════════════════════════════════ -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:2575fc&height=2&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:2575fc&height=2"/>
 </p>
 
 <p align="center">
@@ -161,7 +177,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:2575fc&height=2&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:2575fc&height=2"/>
 </p>
-
----
