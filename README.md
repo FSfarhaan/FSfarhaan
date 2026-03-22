@@ -6,8 +6,6 @@
   <img src="https://raw.githubusercontent.com/FSfarhaan/FSfarhaan/main/header.svg" alt="Farhaan Shaikh" />
 </p>
 
-> **⚠️ Setup step:** Create `header.svg` in your profile repo with the glow animation code at the bottom of this file.
-
 ---
 
 <!-- ═══════════════════════════════════════════════════ -->
@@ -16,7 +14,7 @@
 
 <p align="center">
   <a href="https://www.farhaanshaikh.dev">
-    <img src="https://img.shields.io/badge/Portfolio-0f0f0f?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-0f0f0f?style=for-the-badge&logo=react&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/fsfarhaanshaikh">
     <img src="https://img.shields.io/badge/LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
@@ -136,8 +134,6 @@
   </picture>
 </p>
 
-> **⚠️ Setup step:** Create `.github/workflows/snake.yml` — code at the bottom of this file.
-
 ---
 
 <!-- ═══════════════════════════════════════════════════ -->
@@ -164,113 +160,8 @@
   <b>⚡ If it solves a real problem — I'm already building it.</b>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:2575fc&height=2&section=footer"/>
+</p>
+
 ---
-
-<!--
-═══════════════════════════════════════════════════════════════
-  SETUP FILES — READ BEFORE PUBLISHING
-═══════════════════════════════════════════════════════════════
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  1. header.svg  (create in repo root)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Save this as `header.svg` in your FSfarhaan repo:
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d1117"/>
-      <stop offset="100%" style="stop-color:#161b22"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#6a11cb"/>
-      <stop offset="100%" style="stop-color:#2575fc"/>
-    </linearGradient>
-    <style>
-      .name {
-        font-family: 'Segoe UI', system-ui, sans-serif;
-        font-size: 64px;
-        font-weight: 800;
-        letter-spacing: -1px;
-        fill: url(#textGrad);
-        filter: url(#glow);
-        animation: pulse 3s ease-in-out infinite;
-      }
-      .sub {
-        font-family: 'Segoe UI', system-ui, sans-serif;
-        font-size: 20px;
-        font-weight: 400;
-        fill: #8b949e;
-        letter-spacing: 4px;
-        text-transform: uppercase;
-      }
-      .dot {
-        animation: blink 1.4s step-start infinite;
-        fill: #2575fc;
-      }
-      @keyframes pulse {
-        0%, 100% { opacity: 1; }
-        50% { opacity: 0.85; }
-      }
-      @keyframes blink {
-        0%, 100% { opacity: 1; }
-        50% { opacity: 0; }
-      }
-    </style>
-  </defs>
-
-  <!-- background -->
-  <rect width="900" height="200" fill="url(#bg)" rx="12"/>
-
-  <!-- decorative lines -->
-  <line x1="0" y1="190" x2="900" y2="190" stroke="#6a11cb" stroke-width="0.5" opacity="0.4"/>
-  <line x1="0" y1="10" x2="900" y2="10" stroke="#2575fc" stroke-width="0.5" opacity="0.4"/>
-
-  <!-- name -->
-  <text x="450" y="118" text-anchor="middle" class="name">Farhaan Shaikh<tspan class="dot">_</tspan></text>
-
-  <!-- subtitle -->
-  <text x="450" y="155" text-anchor="middle" class="sub">Full Stack · AI · Systems Builder</text>
-</svg>
-
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  2. Snake Action  (.github/workflows/snake.yml)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: FSfarhaan
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-After running the action once, the snake SVGs will be live on the `output` branch.
-
-═══════════════════════════════════════════════════════════════
--->
